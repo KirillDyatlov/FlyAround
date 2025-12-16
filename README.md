@@ -16,4 +16,5 @@
 
 # Скачать
 Скачать ее можно здесь: https://github.com/KirillDyatlov/FlyAround/releases
-Либо здесь: https://www.rustore.ru/catalog/app/com.WaterMedia.FlyAround
+<br>Либо здесь: https://www.rustore.ru/catalog/app/com.WaterMedia.FlyAround
+<br>Ну или: https://store.ruplay.market/app/com.WaterMedia.FlyAround
